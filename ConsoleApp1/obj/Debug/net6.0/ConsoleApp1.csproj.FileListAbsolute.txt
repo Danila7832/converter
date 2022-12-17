@@ -1,0 +1,17 @@
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\учеба\С#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
